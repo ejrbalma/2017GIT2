@@ -1,8 +1,4 @@
 Cap-1
 Esto es una prueba ....
 
-Primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo ,primer párrafo .
-
-Segund párrafo ,segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo, segundo párrafo.
-
-Tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo, tercer párrafo.
+Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo ,Primer párrafo .
